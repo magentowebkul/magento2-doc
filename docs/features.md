@@ -35,18 +35,18 @@ Here is a full tour of what the plugin can do. Use the table of contents to jump
 
 You get a full dashboard built right into your Magento2 admin. No more switching tabs just to check sales.
 
-![Analytics Dashboard Header, Setup Progress, and Key Performance Indicators](/magento2-power-bi/images/dashboard-top-grouped.webp)
+![Analytics Dashboard Header, Setup Progress, and Key Performance Indicators](//magento2-doc//images/dashboard-top-grouped.webp)
 
 Here is what you will see in the analytics console:
 
 - **Sales Trend (Last 30 Days)** visualizes real-time Revenue vs. Order counts, complete with **Smart Insights** and **Store Health** metrics in the dedicated sidebar.
-  ![Sales Trend Analysis and Store Health Sidebars](/magento2-power-bi/images/dashboard-sales-grouped.webp)
+  ![Sales Trend Analysis and Store Health Sidebars](//magento2-doc//images/dashboard-sales-grouped.webp)
  
  - A comprehensive suite of dynamic analytics charts including **Orders by Status**, **Top 5 Products**, **Revenue by Payment Method**, and **Customer Growth** metrics.
-  ![Dynamic Advanced Dashboard Charts and Grid Layout](/magento2-power-bi/images/dashboard-charts-grid.webp)
+  ![Dynamic Advanced Dashboard Charts and Grid Layout](//magento2-doc//images/dashboard-charts-grid.webp)
  
  - Full-spectrum administration utilities comprising the continuous **Recent Sync Activity** timeline and multi-sector **Quick Actions** panel.
-  ![Recent Synchronization Events and Rapid Task Management Console](/magento2-power-bi/images/dashboard-footer-actions.webp)
+  ![Recent Synchronization Events and Rapid Task Management Console](//magento2-doc//images/dashboard-footer-actions.webp)
 
 See [Dashboard](./dashboard.md) for the full walkthrough.
 
@@ -70,7 +70,7 @@ Every data type comes with automatic schema detection. The plugin maps each fiel
 
 ## 3. Visual Query Builder
 
-![Query Builder](/magento2-power-bi/images/query-builder.webp)
+![Query Builder](//magento2-doc//images/query-builder.webp)
 
 You can build custom queries without writing any code. Pick an entity, choose columns, set filters, and preview the result. It really is that easy.
 
@@ -93,7 +93,7 @@ See [Query Builder](./query-builder.md) for a step-by-step walkthrough.
 
 ## 4. Automatic Data Sync
 
-![Sync & Scheduler](/magento2-power-bi/images/sync-settings.webp)
+![Sync & Scheduler](//magento2-doc//images/sync-settings.webp)
 
 Sync runs on its own, so your Power BI dashboards always have fresh data. You can pick the mode that fits your store:
 
@@ -159,7 +159,7 @@ See [Workspaces, Datasets & Tables](./workspaces-datasets-tables.md).
 
 ## 8. Embedded Reports and Dashboards
 
-![Embedded Reports](/magento2-power-bi/images/reports.webp)
+![Embedded Reports](//magento2-doc//images/reports.webp)
 
 Why leave Magento2 just to look at a Power BI report? You can embed them right inside.
 
@@ -176,7 +176,7 @@ See [Reports & Dashboards](./reports.md).
 
 ## 9. Smart Alerts
 
-![Smart Alerts](/magento2-power-bi/images/alerts.webp)
+![Smart Alerts](//magento2-doc//images/alerts.webp)
 
 You cannot watch your dashboard all day. Let the plugin watch it for you. Alerts send an email when a metric crosses a line you set.
 
@@ -194,7 +194,7 @@ See [Alerts](./alerts.md).
 
 ## 10. Role-Based Access Control
 
-![Access Control](/magento2-power-bi/images/access-control.webp)
+![Access Control](//magento2-doc//images/access-control.webp)
 
 Not everyone on your team needs full access. You can give each role only the permissions it needs.
 

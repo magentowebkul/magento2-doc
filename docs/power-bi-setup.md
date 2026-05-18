@@ -29,7 +29,7 @@ To start a trial or buy a license, head to [Power BI Pricing](https://powerbi.mi
 
 Next, open [https://app.powerbi.com](https://app.powerbi.com) and sign in. Use the **same Microsoft account** you used in the [Azure AD Setup](./azure-ad-setup.md) guide. If you see a trial prompt, accept it.
 
-![Power BI workspace overview](/magento2-power-bi/images/pbi-workspace-view.webp)
+![Power BI workspace overview](//magento2-doc//images/pbi-workspace-view.webp)
 *Screenshot: Microsoft Fabric workspace page — click "Manage access" on the command bar to control who can use this workspace.*
 
 ## 3. Create or Pick a Workspace
@@ -44,7 +44,7 @@ A **workspace** is like a folder in Power BI. It holds datasets, reports, and da
 4. Under **Advanced**, pick the license mode that matches your plan.
 5. Click **Apply**.
 
-![Create a new workspace](/magento2-power-bi/images/pbi-create-workspace.webp)
+![Create a new workspace](//magento2-doc//images/pbi-create-workspace.webp)
 *Screenshot: Workspaces panel in Microsoft Fabric — click "+ New workspace" at the bottom to create a new workspace.*
 
 ### Or use a workspace you already have
@@ -67,7 +67,7 @@ Open the workspace and click **Access** in the top-right corner. Make sure your 
 
 If you are only a Viewer, ask the workspace owner to bump you up to Member or Admin.
 
-![Workspace access roles](/magento2-power-bi/images/pbi-workspace-access.webp)
+![Workspace access roles](//magento2-doc//images/pbi-workspace-access.webp)
 *Screenshot: "Add people" panel — enter a name or email and select a role (Admin, Member, Contributor, or Viewer) from the dropdown.*
 
 ## 5. Enable the Power BI API (Tenant Admin)
@@ -87,7 +87,7 @@ If your company shares a Power BI tenant, your tenant admin needs to allow API a
 
 You only need to do this once for the whole tenant.
 
-![Power BI Admin tenant settings](/magento2-power-bi/images/pbi-admin-settings.webp)
+![Power BI Admin tenant settings](//magento2-doc//images/pbi-admin-settings.webp)
 *Screenshot: Click the gear icon in the top-right corner, then select "Admin portal" under Governance and insights to open Tenant settings.*
 
 ## 6. Quick Health Check

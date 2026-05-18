@@ -20,7 +20,7 @@ Magento Admin → Stores → Configuration → Webkul → Power Bi
 
 The single configuration group includes master triggers, cloud identity parameters, and live token inspection.
 
-![Settings — Power Bi Configuration](/magento2-power-bi/images/settings-panel.webp)
+![Settings — Power Bi Configuration](//magento2-doc//images/settings-panel.webp)
 *Standard Magento Configuration hierarchy for the connector.*
 
 | Field Name | Input Type | Requirement | Description |

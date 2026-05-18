@@ -5,7 +5,7 @@ import { pwaPlugin } from '@vuepress/plugin-pwa'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
-  base: '/magento2-power-bi/',
+  base: '/magento2-doc/',
   lang: 'en-US',
   shouldPrefetch: false,
   head: [['meta', { name: 'theme-color', content: '#EE672F' }]],

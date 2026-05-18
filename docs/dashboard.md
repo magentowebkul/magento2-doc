@@ -15,7 +15,7 @@ Find it in the Magento Admin sidebar under:
 Power Bi → Power Bi Connector Management → Analytics Dashboard
 ```
 
-![Analytics Hub High-Level Overview](/magento2-power-bi/images/dashboard-top-grouped.webp)
+![Analytics Hub High-Level Overview](//magento2-doc//images/dashboard-top-grouped.webp)
 *Anatomy of the native Analytics Hub.*
 
 ---
@@ -53,7 +53,7 @@ Each card automatically calculates the percentage delta ($\Delta$) comparing the
 
 The core analytics viewport visualizes high-density transactional timelines seamlessly integrated with operational health telemetry:
 
-![Sales Trend Visuals and Store Health Sidebar Matrix](/magento2-power-bi/images/dashboard-sales-grouped.webp)
+![Sales Trend Visuals and Store Health Sidebar Matrix](//magento2-doc//images/dashboard-sales-grouped.webp)
 
 Below the KPIs, the module leverages optimized Javascript rendering (via Chart.js integration) to present five primary visualizations:
 
@@ -65,7 +65,7 @@ Below the KPIs, the module leverages optimized Javascript rendering (via Chart.j
 | **Revenue Sources**| Donut | Grouping of totals aggregated by active Payment Gateway IDs. |
 | **Customer Growth**| Line Chart | Tracks monthly acquisition volumes across the last 12 months. |
 
-![Extended Secondary Chart Visualization Engine](/magento2-power-bi/images/dashboard-charts-grid.webp)
+![Extended Secondary Chart Visualization Engine](//magento2-doc//images/dashboard-charts-grid.webp)
 
 ## 5. Store Health Matrix
 
@@ -82,7 +82,7 @@ The footer displays the most recent system-to-system synchronization log payload
 - **Execution Duration**: Milliseconds elapsed.
 - **Immediate Actions**: A "Retry" button permitting one-click queue repopulation directly from the dashboard if a fail occurs.
  
-  ![Continuous System Sync Logger and Direct Action Console](/magento2-power-bi/images/dashboard-footer-actions.webp)
+  ![Continuous System Sync Logger and Direct Action Console](//magento2-doc//images/dashboard-footer-actions.webp)
 
 ---
 

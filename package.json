@@ -1,5 +1,5 @@
 {
-  "name": "magento2-power-bi",
+  "name": "/magento2-doc/",
   "description": "Magento 2 Power BI Connector documentation — sync Magento Catalog, Customers, Orders data to Microsoft Power BI, build analytics dashboards, and embed visual reports inside admin panels.",
   "version": "0.0.1",
   "license": "MIT",
