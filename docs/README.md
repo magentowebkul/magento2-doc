@@ -1,0 +1,82 @@
+---
+home: true
+title: Magento 2 Power BI Connector — Official Documentation
+description: Connect your Magento 2 store to Microsoft Power BI. Sync catalog and sales data, build reports, and embed dashboards - all from Magento Admin.
+heroImage: false
+heroText: Magento 2 Power BI Connector Documentation
+tagline: Sync Magento 2 data to Microsoft Power BI. Configure workspaces, embed reports, schedule automated syncs, and set up smart alerts from your admin.
+actions:
+  - text: Quick Start
+    link: /quick-start
+    type: primary
+  - text: Installation
+    link: /installation
+    type: secondary
+  - text: Buy Now
+    link: https://store.webkul.com/magento2-power-bi-connector.html
+    type: secondary
+
+features:
+  - title: Robust Data Sync
+    details: Sync massive catalogs, orders, and customers via Cron schedules and robust Message Queue pipelines for high concurrency.
+    link: /sync
+
+  - title: Embedded Reports
+    details: Seamlessly import Power BI reports and dashboards into your Magento admin. Supports full iframe integration with access management.
+    link: /reports
+
+  - title: Analytics Hub
+    details: View key performance indicators, sales trends, and real-time store health via the integrated Analytics Dashboard directly in Magento.
+    link: /dashboard
+
+  - title: Smart Alerts
+    details: Setup threshold-based alerts for low stock, refund spikes, and AOV shifts. Trigger automated email notifications.
+    link: /alerts
+
+  - title: Visual Query Builder
+    details: Build custom queries with a visual interface. Map Magento attributes to custom Power BI field names, apply filters, and preview instantly.
+    link: /query-builder
+
+  - title: Enterprise Ready
+    details: Azure AD OAuth2 secure connection, encrypted backend configurations, granular Magento ACL permissions, and robust sync failure retries.
+    link: /access-control
+
+footer: © 2010-2026 Webkul. All Rights Reserved.
+---
+
+<div class="wk-badges-strip">
+  <div class="wk-badges-row">
+    <a href="https://codecanyon.net/user/webkul" class="wk-badge" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdnwebkul.webkul.com/wp-content/uploads/2024/09/author-level-10.webp" alt="Author Level 10" />
+      <p>CodeCanyon<br/><strong>Author Level 10</strong></p>
+    </a>
+    <div class="wk-badge">
+      <img src="https://cdnwebkul.webkul.com/wp-content/uploads/2024/09/github.webp" alt="Magento 2 Core Contributor" />
+      <p>Magento 2<br/><strong>Core Contributor</strong></p>
+    </div>
+    <a href="https://pars.cmmiinstitute.com/appraisals/74954" class="wk-badge" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdnwebkul.webkul.com/wp-content/uploads/2025/07/cmmi-appraised.webp" alt="CMMI Level 3" />
+      <p>Webkul Appraised at<br/><strong>CMMI Level 3</strong></p>
+    </a>
+    <a href="https://webkul.com/deloitte-award/" class="wk-badge">
+      <img src="https://cdnwebkul.webkul.com/wp-content/uploads/2024/08/deloitte.webp" alt="Deloitte Technology Fast 50" />
+      <p>Deloitte<br/><strong>Technology Fast 50 India</strong></p>
+    </a>
+    <a href="https://clutch.co/profile/webkul#highlights" class="wk-badge" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdnwebkul.webkul.com/wp-content/uploads/2024/08/globle-clutch-spring.webp" alt="Global Clutch Awards 2024" />
+      <p>Global Clutch<br/><strong>Awards 2024</strong></p>
+    </a>
+  </div>
+  <div class="wk-reviews-row">
+    <a href="https://clutch.co/profile/webkul#highlights" class="wk-review-badge clutch" target="_blank" rel="noopener noreferrer">
+      <span class="review-sprite-logo clutch-logo"></span>
+      <span class="review-rating">4.9 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+      <span class="review-label">Clutch Review</span>
+    </a>
+    <a href="https://www.google.com/search?q=webkul" class="wk-review-badge google" target="_blank" rel="noopener noreferrer">
+      <span class="review-sprite-logo google-logo"></span>
+      <span class="review-rating">4.5 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+      <span class="review-label">Google Review</span>
+    </a>
+  </div>
+</div>
