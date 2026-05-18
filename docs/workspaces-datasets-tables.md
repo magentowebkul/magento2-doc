@@ -14,7 +14,7 @@ Each of these has its own admin page. You can do everything here without opening
 
 **URL:** `your-magento-store/admin/powerbi/workspaces/index/`
 
-![Workspaces page](//magento2-doc//images/workspaces.webp)
+![Workspaces page](/magento2-doc/images/workspaces.webp)
 *Workspaces — list, create, and set the active Power BI workspace.*
 
 ### What you can do
@@ -31,7 +31,7 @@ Each of these has its own admin page. You can do everything here without opening
 3. Click **Create Workspace**.
 4. The new workspace appears in the list with an "Active" button. Click it to make it the target.
 
-![Create New Workspace](//magento2-doc//images/create-workspace.webp)
+![Create New Workspace](/magento2-doc/images/create-workspace.webp)
 *Create New Workspace — enter a name and click Create Workspace.*
 
 ### How to switch workspaces
@@ -48,7 +48,7 @@ Switching workspaces mid-sync can produce partial data in both places. Finish an
 
 **URL:** `your-magento-store/admin/powerbi/datasets/index/`
 
-![Datasets page](//magento2-doc//images/datasets.webp)
+![Datasets page](/magento2-doc/images/datasets.webp)
 *Datasets — publish, manage, and track dataset state in one grid.*
 
 A **dataset** is the Power BI object that contains one or more tables and the schemas for each. The plugin normally creates one dataset per configured entity (e.g. `WC Orders`, `WC Products`), but you can also create bundled datasets with multiple tables.
@@ -98,7 +98,7 @@ Choose **Temporary** while you're still iterating on schemas or adding new field
 
 **URL:** `your-magento-store/admin/powerbi/table/index/`
 
-![Tables page](//magento2-doc//images/tables.webp)
+![Tables page](/magento2-doc/images/tables.webp)
 *Tables — inspect schemas, push rows, or clear data on individual tables.*
 
 The Tables page lets you inspect and manage individual tables inside a dataset.

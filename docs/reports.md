@@ -4,7 +4,7 @@ The Reports page is where you **import Power BI reports and dashboards back into
 
 **URL:** `yourstore.com/admin/powerbi/report/index`
 
-![Reports & Dashboards page](//magento2-doc//images/reports.webp)
+![Reports & Dashboards page](/magento2-doc/images/reports.webp)
 *Reports page — import, embed, and manage Power BI reports and dashboards.*
 
 ::: tip Prerequisite
@@ -56,7 +56,7 @@ After import, click **View** on any report. A new tab will open with the power p
 
 - "View in Power BI" link that opens the report in [app.powerbi.com](https://app.powerbi.com)
 
-![Embedded Power BI report in Magento2 admin](//magento2-doc//images/report-embed.webp)
+![Embedded Power BI report in Magento2 admin](/magento2-doc/images/report-embed.webp)
 *A Power BI bar chart embedded inside the Magento2 admin — with "View in Power BI" and "Hide" controls.*
 
 ---

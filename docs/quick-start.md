@@ -74,7 +74,7 @@ You understand Magento architecture and Azure AD concepts. You just need the key
 
 ## Validation: Check That It Worked
 
-![Analytics Hub Success View](//magento2-doc//images/dashboard-top-grouped.webp)
+![Analytics Hub Success View](/magento2-doc/images/dashboard-top-grouped.webp)
 *The integrated dashboard lights up as soon as data begins piping to Power BI.*
 
 1. Open **Power Bi → Analytics Dashboard** to view synchronized KPIs.

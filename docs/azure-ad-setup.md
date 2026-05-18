@@ -51,7 +51,7 @@ By the end, you should have these five items ready:
 | **Microsoft account email** | The Power BI user the plugin will act as |
 | **Microsoft account password** *(optional)* | Only if you want silent auto-refresh (ROPC) |
 
-![Azure AD app registration overview](//magento2-doc//images/azure-overview.webp)
+![Azure AD app registration overview](/magento2-doc/images/azure-overview.webp)
 *Screenshot: App registration Overview page — Application (client) ID and Directory (tenant) ID highlighted in red.*
 
 ---
@@ -66,7 +66,7 @@ Once you are in, type **Azure Active Directory** in the top search bar. Click th
 You need a *work or school* Microsoft account. Plain Outlook or Live accounts cannot create a Power BI workspace. Use a Microsoft 365 account instead.
 :::
 
-![Azure portal sign-in](//magento2-doc//images/azure-signin.webp)
+![Azure portal sign-in](/magento2-doc/images/azure-signin.webp)
 *Screenshot: Microsoft Entra admin center — App registrations overview showing Client ID, Tenant ID, and left-hand navigation menu.*
 
 ---
@@ -91,7 +91,7 @@ Now you will tell Azure about the plugin. This is called an **app registration**
 Swap `your-domain.com` for your real Magento2 site. Also, the URL must start with `https://`. If it does not match, OAuth will fail with the error `AADSTS50011: The redirect URI does not match`.
 :::
 
-![New app registration form](//magento2-doc//images/azure-new-registration.webp)
+![New app registration form](/magento2-doc/images/azure-new-registration.webp)
 *Screenshot: "Register an application" form — enter your app Name, select Supported account types, and set the Redirect URI.*
 
 ---
@@ -122,7 +122,7 @@ Next, you need to create a secret. A secret is like a password for your app.
 Azure hides the Value as soon as you leave the page. If you miss it, you cannot get it back. You will have to delete the secret and make a new one.
 :::
 
-![Client secret Value](//magento2-doc//images/azure-client-secret.webp)
+![Client secret Value](/magento2-doc/images/azure-client-secret.webp)
 *Screenshot: Certificates & secrets page — Client secrets tab with the secret Value highlighted. Copy this value immediately.*
 
 ---
@@ -150,7 +150,7 @@ After that, every permission should show a green check ✅ next to it.
 You are signed in as a user, not an admin. You can ask your admin to click it for you. Or, you can consent per-user later during the OAuth step in the wizard.
 :::
 
-![API permissions granted](//magento2-doc//images/azure-api-permissions.webp)
+![API permissions granted](/magento2-doc/images/azure-api-permissions.webp)
 *Screenshot: API permissions page — click "+ Add a permission" to add Power BI Service permissions, then click "Grant admin consent" for your organization.*
 
 ---
